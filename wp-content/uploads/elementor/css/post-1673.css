@@ -1,0 +1,31 @@
+.elementor-1673 .elementor-element.elementor-element-4685678{overflow:visible;}@media(max-width:767px){.elementor-1673 .elementor-element.elementor-element-3e48be3 > .elementor-widget-container{margin:0px 0px 0px -40px;}.elementor-1673 .elementor-element.elementor-element-7d36371 > .elementor-widget-container{margin:0px 0px 0px -40px;}.elementor-1673 .elementor-element.elementor-element-4732965 > .elementor-widget-container{margin:0px 0px 0px -40px;}}/* Start custom CSS for wp-widget-dlm_widget_downloads, class: .elementor-element-3e48be3 */a.download-link {
+    color: black;
+    font-size: 18px
+}
+
+a.download-link:hover{
+    color: #803742;
+}
+
+h5 {
+    text-align: center;
+    font-size: 40px;
+    padding-left: 46px
+}/* End custom CSS */
+/* Start custom CSS for wp-widget-dlm_widget_downloads, class: .elementor-element-7d36371 */a.download-link.filetype-icon.filetype-pdf {
+    color: black;
+}/* End custom CSS */
+/* Start custom CSS for wp-widget-dlm_widget_downloads, class: .elementor-element-4732965 */a.download-link.filetype-icon.filetype-pdf {
+    color: black;
+}
+h5 {
+    /* text-align: center; */
+    font-size: 30px;
+    font-family: 'Poppins';
+    padding-bottom: px
+}
+ul.dlm-downloads {
+    text-align: center;
+    list-style: none;
+    /* text-decoration: none; */
+}/* End custom CSS */
